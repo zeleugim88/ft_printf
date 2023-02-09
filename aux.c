@@ -9,7 +9,7 @@
 /*   Updated: 2023/02/09 22:07:21 by dmiguele         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
 #include "ft_printf.h"
 
 int	ft_putstr(char *str) //imprime un string
@@ -89,3 +89,4 @@ char	*ft_itoa(int n) //le pasas un numero (negativo o positivo) y
 	s = ft_mayomen(s, cifras, m);
 	return (s);
 }
+*/
